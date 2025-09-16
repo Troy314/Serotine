@@ -27,3 +27,11 @@ To comment, users must authorize the utterances app to post on their behalf usin
 Are you using utterances? [Add the `utterances` topic on your repo](https://docs.github.com/en/github/administering-a-repository/classifying-your-repository-with-topics)!
 
 # try it out 👇👇👇
+<script src="https://utteranc.es/client.js"
+        repo="Troy314/utterances"
+        issue-term="url"
+        label="Comment"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>

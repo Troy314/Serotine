@@ -1,17 +1,6 @@
 # Espace commentaires : 
 
-<script src="https://utteranc.es/client.js"
-        repo="Troy314/utterances"
-        issue-term="pathname"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
-
-[Click Ici](https://troy314.github.io/utterances/Test1.html)
-[Click Ici](https://troy314.github.io/utterances/Test1_copy.html)
-
-
-> [!info]- About
-> Ceci
-> est un test
+## Edition pilote : 
+- [Article 1](https://troy314.github.io/utterances/article1.html)
+- [Article 2](https://troy314.github.io/utterances/article2.html)
+- [Article 3](https://troy314.github.io/utterances/article3.html)

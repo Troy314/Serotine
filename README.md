@@ -24,13 +24,7 @@ Afin de poster un commentaire, il est nécessaire de créer un compte sur GitHub
 ## #2 Novembre 2025
 - Renez-vous en novembre
 
-
-<script src="https://utteranc.es/client.js"
-        issue-term="pathname"
-        theme="photon-dark"
-        crossorigin="anonymous"
-        async>
-</script>
+[test](articles/aphantasie.html)
 
 ## Crédits
 Ce site est développé à partir du projet [utterances](https://github.com/utterance/utterances) développé par [jdanyow](https://github.com/jdanyow)

@@ -9,9 +9,9 @@ Afin de poster un commentaire, il est necessaire de creer un compte sur GitHub.
 
 
 ## #1 Octobre 2025
-- [L'aphantasie](https://troy314.github.io/utterances/aphantasie.html)
-- [Sudoku](https://troy314.github.io/utterances/aphantasie_sudoku.html)
-- [Peut-on respirer par l'anus ?](https://troy314.github.io/utterances/respirer_par_anus.html)
+- [L'aphantasie](https://troy314.github.io/utterances/articles/aphantasie.html)
+- [Sudoku](https://troy314.github.io/utterances/articles/aphantasie_sudoku.html)
+- [Peut-on respirer par l'anus ?](https://troy314.github.io/utterances/articles/respirer_par_anus.html)
 
 ## #2 Novembre 2025
 - Soon
@@ -26,3 +26,9 @@ Afin de poster un commentaire, il est necessaire de creer un compte sur GitHub.
 
 ## Crédits
 Ce site est développé à partir du projet [utterances](https://github.com/utterance/utterances) développé par jdanyow
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 1vw; padding: 2vh;">
+  <img src="https://raw.githubusercontent.com/Troy314/utterances/6d67dfdba1173b2d74fb3ddd4dd730af0e8cfaae/media/logo_serotine.svg" alt="Logo principal" style="height: 6vw; max-height: 80px; min-height: 30px; object-fit: contain;">
+  <span style="font-size: 2vw; font-weight: 500; font-family: sans-serif;">by</span>
+  <img src="https://raw.githubusercontent.com/Troy314/utterances/refs/heads/master/media/logo_Auroralpes.png" alt="Petit logo" style="height: 4vw; max-height: 60px; min-height: 20px; object-fit: contain;">
+</div>

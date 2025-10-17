@@ -1,10 +1,11 @@
-![Logo](media/logo_serotine.svg)
-![Logo](media/logo_serotine_blanc.svg)
-![Logo](https://raw.githubusercontent.com/Troy314/utterances/7558cf3e841bc41a6f9300bf60b779bd58f6ad1e/media/logo_serotine.svg)
+![Logo](media/logo_serotine.svg) by ![Auroralpes](media/logo_Auroralpes.png)
 
-# Espace commentaires : 
+# Espace commentaires
 
 Bienvenu dans l'espace commentaire du projet Serotine portée par l'association AurorAlpes.
+Vous pouvez retrouver ci-dessous, les commentaires associés aux diférents numéros du webzine.
+
+Afin de poster un commentaire, il est necessaire de creer un compte sur GitHub.
 
 
 ## #1 Octobre 2025

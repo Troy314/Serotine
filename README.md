@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center; justify-content: center; gap: 3vw; padding: 2vh;">
-  <img src="https://raw.githubusercontent.com/Troy314/utterances/6d67dfdba1173b2d74fb3ddd4dd730af0e8cfaae/media/logo_serotine.svg" alt="Main logo" style="height: 6vw; max-height: 160px; min-height: 30px; object-fit: contain;">
+  <img src="https://raw.githubusercontent.com/Troy314/utterances/6d67dfdba1173b2d74fb3ddd4dd730af0e8cfaae/media/logo_serotine.svg" alt="Main logo" style="height: 12vw; max-height: 160px; min-height: 30px; object-fit: contain;">
   <span style="font-size: 2vw; font-weight: 500; font-family: sans-serif;">by</span>
-  <img src="https://raw.githubusercontent.com/Troy314/utterances/refs/heads/master/media/logo_Auroralpes.png" alt="Small logo" style="height: 4vw; max-height: 120px; min-height: 20px; object-fit: contain;">
+  <img src="https://raw.githubusercontent.com/Troy314/utterances/refs/heads/master/media/logo_Auroralpes.png" alt="Small logo" style="height: 8vw; max-height: 120px; min-height: 20px; object-fit: contain;">
 </div>
 
 <div style="display: flex; align-items: flex-end; justify-content: center; gap: 3vw; padding: 2vh;">

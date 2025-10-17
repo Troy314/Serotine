@@ -17,9 +17,9 @@ Afin de poster un commentaire, il est nécessaire de créer un compte sur GitHub
 
 
 ## #1 Octobre 2025
-- [L'aphantasie](https://troy314.github.io/utterances/articles/aphantasie.html)
-- [Sudoku](https://troy314.github.io/utterances/articles/aphantasie_sudoku.html)
-- [Peut-on respirer par l'anus ?](https://troy314.github.io/utterances/articles/respirer_par_anus.html)
+- [L'aphantasie](https://troy314.github.io/Serotine/articles/aphantasie.html)
+- [Sudoku](https://troy314.github.io/Serotine/articles/aphantasie_sudoku.html)
+- [Peut-on respirer par l'anus ?](https://troy314.github.io/Serotine/articles/respirer_par_anus.html)
 
 ## #2 Novembre 2025
 - Renez-vous en novembre

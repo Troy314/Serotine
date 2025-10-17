@@ -23,4 +23,5 @@ Bienvenu dans l'espace commentaire du projet Serotine portée par l'association 
         async>
 </script>
 
-
+## Crédits
+Ce site est développé à partir du projet [utterances](https://github.com/utterance/utterances) développé par jdanyow

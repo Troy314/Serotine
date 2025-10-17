@@ -1,6 +1,8 @@
 # Espace commentaires : 
 
-## Edition pilote : 
-- [Article 1](https://troy314.github.io/utterances/Article1.html)
-- [Article 2](https://troy314.github.io/utterances/Article2.html)
-- [Article 3](https://troy314.github.io/utterances/Article3.html)
+## #1 Octobre
+- [L'aphantasie](https://troy314.github.io/utterances/aphantasie.html)
+- [Sudoku](https://troy314.github.io/utterances/aphantasie_sudoku.html)
+- [Peut-on respirer par l'anus ?](https://troy314.github.io/utterances/respirer_par_anus.html)
+
+

@@ -17,14 +17,29 @@ Afin de poster un commentaire, il est nécessaire de créer un compte sur GitHub
 
 
 ## #1 Octobre 2025
-- [L'aphantasie](https://troy314.github.io/Serotine/articles/aphantasie.html)
-- [Sudoku](https://troy314.github.io/Serotine/articles/aphantasie_sudoku.html)
-- [Peut-on respirer par l'anus ?](https://troy314.github.io/Serotine/articles/respirer_par_anus.html)
+
+<!-- Flexbox (fonctionne dans la plupart des renderers Markdown qui acceptent du HTML inline) -->
+<div style="display:flex; align-items:flex-start; gap:16px; max-width:100%;">
+  <!-- Colonne image (fixe / adaptative) -->
+  <div style="flex: 0 0 auto;">
+    <a href="https://www.auroralpes.fr/" target="_blank">
+      <img src="media/Sérotine1.jpg" alt="Couverture du #1"
+          style="display:block; max-width:150px; height:auto; border-radius:6px;" />
+    </a>
+  </div>
+
+  <!-- Colonne texte (liste) -->
+  <div style="flex: 1 1 auto;">
+    <ul style="margin:0; padding-left:1.2em;">
+      <li><a href="https://troy314.github.io/Serotine/articles/aphantasie.html" target="_blank">L'aphantasie</a></li>
+      <li><a href="https://troy314.github.io/Serotine/articles/aphantasie_sudoku.html" target="_blank">Ceci n'est pas un bouquet de fleurs (Sudoku)</a></li>
+      <li><a href="https://troy314.github.io/Serotine/articles/respirer_par_anus.html" target="_blank">Peut-on respirer par l'anus ?</a></li>
+    </ul>
+  </div>
+</div>
 
 ## #2 Novembre 2025
-- Renez-vous en novembre
-
-[test](articles/aphantasie.html)
+- Rendez-vous en novembre
 
 ## Crédits
 Ce site est développé à partir du projet [utterances](https://github.com/utterance/utterances) développé par [jdanyow](https://github.com/jdanyow)

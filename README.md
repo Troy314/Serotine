@@ -1,22 +1,19 @@
 <div style="display: flex; align-items: flex-end; justify-content: center; gap: 3vw; padding: 2vh;">
-  <img src="https://raw.githubusercontent.com/Troy314/utterances/6d67dfdba1173b2d74fb3ddd4dd730af0e8cfaae/media/logo_serotine.svg" alt="Main logo" style="height: 10vw; max-height: 160px; min-height: 30px; object-fit: contain;">
-  <span style="font-size: 2vw; font-weight: 500; font-family: sans-serif;">by</span>
+  <a href="https://www.auroralpes.fr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Troy314/utterances/6d67dfdba1173b2d74fb3ddd4dd730af0e8cfaae/media/logo_serotine.svg" alt="Main logo" style="height: 10vw; max-height: 160px; min-height: 30px; object-fit: contain;">
+  </a>
+  <a href="https://www.auroralpes.fr/" target="_blank">
+    <span style="font-size: 2vw; font-weight: 500; font-family: sans-serif;">by</span>
   <img src="https://raw.githubusercontent.com/Troy314/utterances/refs/heads/master/media/logo_Auroralpes.png" alt="Small logo" style="height: 6vw; max-height: 120px; min-height: 20px; object-fit: contain;">
+  </a>
 </div>
-
-<div style="display: flex; align-items: flex-end; justify-content: center; gap: 3vw; padding: 2vh;">
-  <img src="https://raw.githubusercontent.com/Troy314/utterances/6d67dfdba1173b2d74fb3ddd4dd730af0e8cfaae/media/logo_serotine.svg" alt="Main logo" style="height: 12vw; max-height: 160px; min-height: 30px; object-fit: contain;">
-  <span style="font-size: 2vw; font-weight: 500; font-family: sans-serif;">by</span>
-  <img src="https://raw.githubusercontent.com/Troy314/utterances/refs/heads/master/media/logo_Auroralpes.png" alt="Small logo" style="height: 8vw; max-height: 120px; min-height: 20px; object-fit: contain;">
-</div>
-
 
 # Espace commentaires
 
-Bienvenu dans l'espace commentaire du projet Serotine portée par l'association AurorAlpes.
-Vous pouvez retrouver ci-dessous, les commentaires associés aux diférents numéros du webzine.
+Bienvenue dans l'espace commentaire du projet Serotine portée par l'association AurorAlpes.
+Vous pouvez retrouver ci-dessous, les commentaires associés aux différents numéros du webzine.
 
-Afin de poster un commentaire, il est necessaire de creer un compte sur GitHub.
+Afin de poster un commentaire, il est nécessaire de créer un compte sur GitHub (il est possible de le faire à partir d'un compte Google).
 
 
 ## #1 Octobre 2025
@@ -25,7 +22,7 @@ Afin de poster un commentaire, il est necessaire de creer un compte sur GitHub.
 - [Peut-on respirer par l'anus ?](https://troy314.github.io/utterances/articles/respirer_par_anus.html)
 
 ## #2 Novembre 2025
-- Soon
+- Renez-vous en novembre
 
 
 <script src="https://utteranc.es/client.js"
@@ -36,6 +33,6 @@ Afin de poster un commentaire, il est necessaire de creer un compte sur GitHub.
 </script>
 
 ## Crédits
-Ce site est développé à partir du projet [utterances](https://github.com/utterance/utterances) développé par jdanyow
+Ce site est développé à partir du projet [utterances](https://github.com/utterance/utterances) développé par [jdanyow](https://github.com/jdanyow)
 
 

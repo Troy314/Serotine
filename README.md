@@ -9,10 +9,20 @@
 Bienvenu dans l'espace commentaire du projet Serotine portée par l'association AurorAlpes.
 
 
-
-## #1 Octobre
+## #1 Octobre 2025
 - [L'aphantasie](https://troy314.github.io/utterances/aphantasie.html)
 - [Sudoku](https://troy314.github.io/utterances/aphantasie_sudoku.html)
 - [Peut-on respirer par l'anus ?](https://troy314.github.io/utterances/respirer_par_anus.html)
+
+## #2 Novembre 2025
+- Soon
+
+
+<script src="https://utteranc.es/client.js"
+        issue-term="pathname"
+        theme="photon-dark"
+        crossorigin="anonymous"
+        async>
+</script>
 
 

@@ -1,10 +1,10 @@
 <div style="display: flex; align-items: flex-end; justify-content: center; gap: 3vw; padding: 2vh;">
   <a href="https://www.auroralpes.fr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Troy314/utterances/6d67dfdba1173b2d74fb3ddd4dd730af0e8cfaae/media/logo_serotine.svg" alt="Main logo" style="height: 10vw; max-height: 160px; min-height: 30px; object-fit: contain;">
+    <img src="media/logo_serotine.svg" alt="Main logo" style="height: 10vw; max-height: 160px; min-height: 30px; object-fit: contain;">
   </a>
   <span style="font-size: 2vw; font-weight: 500; font-family: sans-serif;">by</span>
   <a href="https://www.auroralpes.fr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Troy314/utterances/refs/heads/master/media/logo_Auroralpes.png" alt="Small logo" style="height: 6vw; max-height: 120px; min-height: 20px; object-fit: contain;">
+    <img src="media/logo_Auroralpes.png" alt="Small logo" style="height: 6vw; max-height: 120px; min-height: 20px; object-fit: contain;">
   </a>
 </div>
 
@@ -31,9 +31,9 @@ Afin de poster un commentaire, il est nécessaire de créer un compte sur GitHub
   <!-- Colonne texte (liste) -->
   <div style="flex: 1 1 auto;">
     <ul style="margin:0; padding-left:1.2em;">
-      <li><a href="https://troy314.github.io/Serotine/articles/aphantasie.html" target="_blank">L'aphantasie</a></li>
-      <li><a href="https://troy314.github.io/Serotine/articles/aphantasie_sudoku.html" target="_blank">Ceci n'est pas un bouquet de fleurs (Sudoku)</a></li>
-      <li><a href="https://troy314.github.io/Serotine/articles/respirer_par_anus.html" target="_blank">Peut-on respirer par l'anus ?</a></li>
+      <li><a href="articles/aphantasie.html" target="_blank">L'aphantasie</a></li>
+      <li><a href="articles/aphantasie_sudoku.html" target="_blank">Ceci n'est pas un bouquet de fleurs (Sudoku)</a></li>
+      <li><a href="articles/respirer_par_anus.html" target="_blank">Peut-on respirer par l'anus ?</a></li>
     </ul>
   </div>
 </div>
